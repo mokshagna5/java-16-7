@@ -190,19 +190,3 @@
         -> For any kind of Variables we work with, we need to specify Datatype
 
     -> Based on the data type we select, default values are applicable
-
-
-    -> Non-Primitive Data types
-
-                -> Either we can use already defined by java, Strings, Arrays, Collections, Interfaces etc
-
-                -> As a user you can create your own data types as well
-                    Student, Employee, Company etc  
-    
-    -> NOTE : The local variable someDataNew2 may not have been initialized
-
-    -> We have Instance Variables, Local Variables & Satic Variables 
-
-        -> For any kind of Variables we work with, we need to specify Datatype
-
-    -> Based on the data type we select, default values are applicable
