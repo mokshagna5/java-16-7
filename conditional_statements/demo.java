@@ -67,7 +67,7 @@ public class demo {
         //Switch-case---fall trough
         int day=6;
         switch (day) {
-            case 1:
+            case 1: 
             case 2:
             case 3:
             case 4:
